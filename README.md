@@ -14,6 +14,6 @@ Our own company site as my first website with limited understanding created on t
   
 ## Screenshots
 
-![App Screenshot](https://github.com/Burhan-driod/firstwebsite/blob/main/2021-06-11.png)
+![App Screenshot](https://github.com/Burhan-driod/firstwebsite/blob/main/2019.png)
 
   
